@@ -24,12 +24,13 @@ button{
 }
 
 .calculator{
-    width: 350px;
+    width: 400px;
     height: 370px;
     border-radius: 8px;
     padding: 16px;
     background-color: #fff;
     box-shadow:inset 0px 0px 4px 0px rgba(0,0,0,0.6);
+    margin: 0 10px;
 }
 
 .display{
